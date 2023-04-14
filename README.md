@@ -2,9 +2,9 @@
 Create an autoencoder to your exact specifications!
 
 ### Getting Started
-'''
-personlized_network(Layers: List[int])
-'''
+
+> personlized_network(Layers: List[int])
+
 will create, train, test, and display the results for a symetric autoencoder with the given input parameters. 
 
 To save your network:
